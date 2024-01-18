@@ -1,6 +1,6 @@
 # ¡Descubre Xavi Cloud: Forjando el Futuro del Software Juntos!
 
-![mi portada](portada-py.png)
+![mi portada](portadagithub.jpg)
 
 Xavi Cloud, nuestro potente sistema de código abierto, abre sus puertas a todos los miembros apasionados de la comunidad de desarrolladores. Este proyecto sin ánimo de lucro se erige como un hito en la innovación, ofreciendo un entorno colaborativo donde cada contribución es una piedra angular para nuestro éxito compartido.
 
